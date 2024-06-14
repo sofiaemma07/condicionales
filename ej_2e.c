@@ -1,3 +1,5 @@
+// Se tira un dado “cargado” donde la probabilidad de sacar un 6 es de 3/8 y para las otras 5 caras de 1/8. El programa imprime el resultado de tirar el dado.
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
