@@ -5,6 +5,7 @@
 int main(int argc, char *argv[]) {
   int kms = atoi(argv[1]);
   double total = 1000.0;
+
   if (kms <= 6) {
     total += (kms * 2) * 350;
   }
